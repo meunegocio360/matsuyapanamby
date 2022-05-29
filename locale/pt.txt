@@ -5,12 +5,16 @@
 ### URL
 LinkBehaviour_D6E4BFFE_CCDF_24E9_41CD_C25DB09B3655.source = http://www.loremipsum.com
 LinkBehaviour_C834990F_D460_F460_41DC_D0C6BF446F98.source = http://www.loremipsum.com
-LinkBehaviour_C12863AD_D43F_9BA3_41D3_38B09BF07FE9.source = https://linktr.ee/restaurantesmatsuya
 LinkBehaviour_C83348F7_D460_F5A0_41E3_782FFD5699D5.source = https://linktr.ee/restaurantesmatsuya
-WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_C12863AD_D43F_9BA3_41D3_38B09BF07FE9.source = https://linktr.ee/restaurantesmatsuya
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-LinkBehaviour_C83318F7_D460_F5A0_41D4_DDF7A9795C56.source = https://www.ifood.com.br/delivery/sao-paulo-sp/matsuya-panamby-vila-andrade/
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 LinkBehaviour_C63F4034_D423_94A1_41C8_985026F03595.source = https://www.ifood.com.br/delivery/sao-paulo-sp/matsuya-panamby-vila-andrade/
+LinkBehaviour_C83318F7_D460_F5A0_41D4_DDF7A9795C56.source = https://www.ifood.com.br/delivery/sao-paulo-sp/matsuya-panamby-vila-andrade/
+LinkBehaviour_167E5569_0D6B_AEAE_4181_2D6CA63DF187.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_169536F3_0D17_EBA1_41A7_CF0D189A6D09.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_163FACF5_0D6A_9FA1_4134_6DBE94EC68F0.source = https://www.instagram.com/restaurantes.matsuya/
+LinkBehaviour_16A92064_0D6A_A6A7_416C_4897B9655F7C.source = https://www.instagram.com/restaurantes.matsuya/
 
 ## Media
 
@@ -28,6 +32,11 @@ panorama_DD0F63F4_CCD5_FCFA_41B1_8DC4FD48ED8F.label = Salão
 panorama_DD0F9FDF_CCD5_2527_41E3_58312054AAEB.label = Salão 2
 panorama_DD0F8A33_CCD5_2F7E_41B3_E7FF0933F53C.label = Salão Entrada
 panorama_C99E8722_D460_9CA1_41E0_DFE792848402.label = Salão Lado Direito
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = @meunegocioweb360
 
 ## Skin
 
@@ -50,8 +59,10 @@ Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 
 ### Image
+Image_11DDF061_0D69_A6A1_41A7_671C8F86CD9B.url = skin/Image_11DDF061_0D69_A6A1_41A7_671C8F86CD9B_pt.png
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile_pt.jpg
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
+Image_170C8A7E_0D69_9AA2_41A4_F40F9206F095.url = skin/Image_170C8A7E_0D69_9AA2_41A4_F40F9206F095_pt.png
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png

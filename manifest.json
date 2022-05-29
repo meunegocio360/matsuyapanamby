@@ -1,9 +1,4 @@
 {
- "name": "MATSUYA PANAMBY - Tour Virtual 360°",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen",
- "description": "R. Germano Ulbrich, 17 - Panamby, São Paulo - SP",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF"
+ "name": "MATSUYA PANAMBY - Tour Virtual 360°",
+ "description": "R. Germano Ulbrich, 17 - Panamby, São Paulo - SP",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
